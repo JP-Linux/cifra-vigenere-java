@@ -5,7 +5,7 @@
 
 Implementação gráfica da cifra de Vigenère com interface Swing, permitindo criptografia e descriptografia de textos.
 
-![Interface Vigenere](/home/fantasma/NetBeansProjects/CifraDeVigenere/gif/Vigenere.gif) 
+![Interface Vigenere](gif/Vigenere.gif) 
 
 ## 🚀 Funcionalidades
 
@@ -42,8 +42,8 @@ cd cifra-vigenere-java
 
 ### 3. Execução via linha de comando
 
-    ```bash
-    mvn clean compile exec:java -Dexec.mainClass="cifradevigenere.CifraDeVigenere"
+    ```sh
+       mvn clean compile exec:java -Dexec.mainClass="cifradevigenere.CifraDeVigenere"
     ```
 
 ## 🖥️ Como Usar
@@ -82,7 +82,7 @@ cd cifra-vigenere-java
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](https://LICENSE) para detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ---
 
