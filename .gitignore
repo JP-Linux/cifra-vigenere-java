@@ -1,0 +1,69 @@
+# Arquivos de build
+bin/
+build/
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE específico
+## Eclipse
+.project
+.classpath
+.settings/
+.metadata/
+
+## IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+## NetBeans
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# Ferramentas de build
+## Maven
+mvnw
+mvnw.cmd
+.mvn/
+dependency-reduced-pom.xml
+
+## Gradle
+.gradle/
+build/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ambiente/Sensível
+.env
+*.keystore
+*.cert
+*.pub
+
+# Logs e outputs
+logs/
+*.log
+*.out
+
+# Testes (se aplicável)
+/test-output/
+/coverage/
+
+# Arquivos do usuário
+*.orig
+*.rej
