@@ -15,6 +15,11 @@ Implementação gráfica da cifra de Vigenère com interface Swing, permitindo c
 - Tratamento de erros e validações
 - Suporte para caracteres A-Z e espaço
 
+## 📥 Download
+
+Baixe a versão mais recente:
+- [Cifra de Vigenère (JAR)](https://github.com/JP-Linux/cifra-vigenere-java/releases/download/v1.0.0/cifra-vigenere-java-1.0.0.jar)
+
 ## 📦 Pré-requisitos
 
 - Java 17 ou superior
