@@ -1,5 +1,6 @@
 # Cifra de Vigenère em Java
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://jp-linux.github.io)
 [![Java](https://img.shields.io/badge/Java-17%2B-blue.svg)](https://java.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
